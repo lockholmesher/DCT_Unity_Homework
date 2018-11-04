@@ -1,0 +1,23 @@
+Hằng số nguyên có thể là decimal (cơ số 10), octal (cơ số 8) hay hexadecimal (cơ số 16). 
+Giá trị có tiền tố (prefix) là 0 cho octal, là 0x hay 0X cho hexadecimal và không có gì cho decimal.
+
+Một hằng số nguyên cũng có các hậu tố (suffix) U hay L thể hiện kiểu unsigned hay long. 
+Hậu tố có thể là chữ hoa hoặc chữ thường và có thể trong bất kỳ thứ tự nào.
+
+Ví dụ về các hằng số nguyên:
+
+212         /* hợp lệ */
+215u        /* hợp lệ */
+0xFeeL      /* hợp lệ */
+078         /* không hợp lệ: 8 không phải là chữ số trong hệ cơ số 8 */
+032UU       /* không hợp lệ: không thể lặp lại hậu tố */
+Dưới đây là các kiểu hằng số nguyên đa dạng:
+
+85         /* thập phân */
+0213       /* hệ cơ số 8 */
+0x4b       /* hệ cơ số 16 */
+30         /* int */
+30u        /* unsigned int */
+30l        /* long */
+30ul       /* unsigned long */
+

@@ -1,0 +1,128 @@
+C# Cơ bản
+
+1 .Chương trình Hello World trong C#
+2 .Tìm tổng hai số trong C#
+3 .Các phép toán cơ bản (cộng, trừ, nhân, chia) trong C#
+4 .Chương trình C# để tráo đổi giá trị
+5 .Chương trình C# để một số từ Input Stream chuẩn và in bảng nhân của số đó
+6 .Tìm giá trị trung bình của 4 số trong C#
+7 .Chuyển đổi độ C thành độ K và độ F trong C#
+
+C# Kiểu dữ liệu
+
+8. Nhập 3 chữ cái và hiển thị theo chiều ngược lại trong C#.
+9. Chương trình C# để vẽ tam giác số
+4 4 4 4 4
+4 4 4 4
+4 4 4
+4 4
+4
+10. Kiểm tra tên đăng nhập và mật khẩu trong C#
+11. Chương trình C# để kiểm tra tên đăng nhập và mật khẩu, và nếu nhập tên và mật khẩu sai quá 3 lần thì in thông báo lỗi
+12. Chương trình C# để nhập hai số và nhập một phép toán. Tương ứng với phép toán đã nhập bạn thực hiện phép tính trên hai số và in kết quả ra màn hình
+13.Tìm chu vi và diện tích hình tròn trong C#
+14. Chương trình C# để tìm giá trị cụ thể của một hàm số với dãy giá trị của biến
+15. Tìm vận tốc (m/s, km/h, mile/h) với quãng đường và thời gian nhập từ bàn phím trong C#
+16. Tìm diện tích và thể tích hình cầu trong C#
+17. Chương trình C# để kiểm tra một chữ cái thường nhập từ bàn phím là nguyên âm, chữ số hay ký tự khác
+18. Kiểm tra chẵn lẻ trong C#
+19. Chương trình C# để chuyển đổi thập phân thành nhị phân
+
+C# IF, ELSE, SWITCH
+
+20. Nhập hai số và kiểm tra xem hai số đó có bằng nhau không trong C#
+21. Kiểm tra một số là chẵn hay lẻ trong C#.
+22. Chương trình C# để kiểm tra số dương, số âm
+23. Kiểm tra năm nhuận trong C#
+24. Chương trình C# để nhập tuổi của một người, kiểm tra và thông báo xem người đó có đủ độ tuổi bầu cử không.
+25. Chương trình C# để nhập một số m, kiểm tra xem số đó là lớn hơn, nhỏ hơn hoặc bằng 0 và in ra giá trị tương ứng của một số n là 1, -1 hoặc 0
+26. Chương trình C# để nhập chiều cao của một người và sau đó phân loại chiều cao của người đó
+27. Tìm số lớn nhất trong C#
+28. Chương trình C# để nhập tọa độ (x, y) của một điểm và thông báo góc phần tư
+29. Chương trình C# để nhập điểm thi ba môn Toán, Lý, Hóa của một thí sinh, kiểm tra xem thí sinh đó có trúng tuyển không
+30. Giải phương trình bậc hai trong C#
+31. Chương trình C# để nhập nhiệt độ và in ra thông báo tương ứng
+32. Kiểm tra tam giác đều, cân, lệch trong C#
+33. Chương trình C# để nhập 3 số, và kiểm tra xem 3 số này có phải là 3 góc của tam giác không
+34. Kiểm tra nguyên âm, phụ âm trong C#
+35. Chương trình C# để kiểm tra lợi nhuận hoặc thua lỗ
+36. Chương trình C# để nhập hạng (ví dụ: A, B, C, ...) và hiển thị miêu tả tương ứng
+37. Chương trình C# để nhập một số và hiển thị ngày trong tuần tương ứng
+38. Nhập một số bất kỳ và hiển thị số bằng chữ tương ứng trong C#
+39. Nhập số tháng bất kỳ và hiển thị số ngày của tháng đó trong C#
+40. Viết một chương trình C# hiển thị một menu có các lựa chọn để tính diện tích các hình tròn, hình chữ nhật, hình tam giác tương ứng với dữ liệu đã nhập.
+41. Viết một chương trình C# hiển thị một menu có các lựa chọn để thực hiện các phép toán cơ bản của hai số a, b
+
+C# 
+
+42. Tính tổng dãy số trong C#
+43. Chương trình C# để hiển thị các số Hex có giá trị từ 0 - 255
+44. In bảng cửu chương trong C#
+45. Kiểm tra số nguyên tố trong C#
+46. Tìm số nguyên tố trong C#
+47. Chương trình C# để in bảng nhân của một số bất kỳ
+48. Hiển thị và tính tổng các số lẻ trong C#
+49. Hiển thị và tính tổng các số chẵn trong C#
+50. Vẽ tam giác sao trong C#
+
+*
+**
+***
+****
+*****
+51. Vẽ tam giác số trong C# (I)
+
+1
+12
+123
+1234
+12345
+52. Vẽ tam giác số trong C# (II)
+
+1
+22
+333
+4444
+55555
+53. Vẽ tam giác số trong C# (III)
+
+1
+2 3
+4 5 6
+7 8 9 10
+54. Vẽ tam giác số trong C# (IV)
+
+      1
+     2 3
+    4 5 6
+   7 8 9 10
+55. Vẽ tam giác số trong C# (V)
+      1
+     2 2
+    3 3 3
+   4 4 4 4
+56. Vẽ tam giác sao đều trong C#
+57. Vẽ tam giác sao cân trong C#
+58. Vẽ hình kim cương bằng cách dấu sao trong C#
+59. Tìm giai thừa của một số trong C#
+60. Chương trình C# để tính tổng dãy số: 1 - x2/2! + x4/4! - ...
+61. Chương trình C# để tính tổng dãy số: 1/1 + 1/2 + 1/3 + 1/4 + ...
+62. Tính tổng dãy số 9 + 99 + 999 + ... trong C#
+63. Kiểm tra số hoàn hảo trong C#
+64. Chương trình C# để tìm số hoàn hảo trong một dãy đã cho
+65. Kiểm tra số armstrong trong C#
+66. Chương trình C# để tìm số armstrong trong một dãy số đã cho
+67. Vẽ tam giác Pascal trong C#
+68. In dãy Fibonacci trong C#
+69. Chương trình C# để vẽ một hình tam giác số theo mẫu đã cho
+70. In số theo chiều đảo ngược trong C#
+71. Kiểm tra số đối xứng (số Palindrome) trong C#
+72. Vẽ tam giác chữ cái trong C#
+73. Chương trình C# để tìm ước số chung lớn nhất (USCLN)
+74. Tìm bội số chung nhỏ nhất (BSCNN) trong C# (sử dụng USCLN)
+75. Tìm bội số chung nhỏ nhất (BSCNN) trong C# (không sử dụng USCLN)
+76. Chương trình C# để kiểm tra Strong Number
+77. Tìm Strong Number trong C#
+78. Chương trình C# để kiểm tra xem một số bất kỳ có thể biểu diễn bằng tổng của hai số nguyên tố không
+79. In chuỗi theo chiều đảo ngược trong C#
+
