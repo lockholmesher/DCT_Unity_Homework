@@ -1,0 +1,11 @@
+E:\DCT_Unity\C#\KiemTraMatKhau\bin\Debug\netcoreapp2.1\KiemTraMatKhau.deps.json
+E:\DCT_Unity\C#\KiemTraMatKhau\bin\Debug\netcoreapp2.1\KiemTraMatKhau.runtimeconfig.json
+E:\DCT_Unity\C#\KiemTraMatKhau\bin\Debug\netcoreapp2.1\KiemTraMatKhau.runtimeconfig.dev.json
+E:\DCT_Unity\C#\KiemTraMatKhau\bin\Debug\netcoreapp2.1\KiemTraMatKhau.dll
+E:\DCT_Unity\C#\KiemTraMatKhau\bin\Debug\netcoreapp2.1\KiemTraMatKhau.pdb
+E:\DCT_Unity\C#\KiemTraMatKhau\obj\Debug\netcoreapp2.1\KiemTraMatKhau.csprojAssemblyReference.cache
+E:\DCT_Unity\C#\KiemTraMatKhau\obj\Debug\netcoreapp2.1\KiemTraMatKhau.csproj.CoreCompileInputs.cache
+E:\DCT_Unity\C#\KiemTraMatKhau\obj\Debug\netcoreapp2.1\KiemTraMatKhau.AssemblyInfoInputs.cache
+E:\DCT_Unity\C#\KiemTraMatKhau\obj\Debug\netcoreapp2.1\KiemTraMatKhau.AssemblyInfo.cs
+E:\DCT_Unity\C#\KiemTraMatKhau\obj\Debug\netcoreapp2.1\KiemTraMatKhau.dll
+E:\DCT_Unity\C#\KiemTraMatKhau\obj\Debug\netcoreapp2.1\KiemTraMatKhau.pdb
