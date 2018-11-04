@@ -1,0 +1,60 @@
+Chuyển đổi kiểu ngầm định (implicit) 
+    - Việc chuyển đổi này được thực hiện bởi C# theo một phương thức an toàn kiểu (type-safe). 
+    Ví dụ: việc chuyển đổi từ các lớp kế thừa thành các lớp cơ sở.
+
+Chuyển đổi kiểu tường minh (explicit) 
+    - Việc chuyển đổi này được thực hiện một cách rõ ràng bởi người dùng bằng việc sử dụng các hàm được định nghĩa trước. 
+    Các chuyển đổi kiểu tường minh cần một toán tử cast.
+
+
+
+Phương thức Chuyển đổi kiểu dữ liệu trong C#
+
+1	ToBoolean
+Chuyển đổi một kiểu thành một giá trị Boolean, nếu có thể
+
+2	ToByte
+Chuyển đổi một kiểu thành một byte
+
+3	ToChar
+Chuyển đổi một kiểu thành một Unicode character, nếu có thể
+
+4	ToDateTime
+Chuyển đổi một kiểu (kiểu integer hoặc string) thành các cấu trúc date-time
+
+5	ToDecimal
+Chuyển đổi một kiểu số thực hoặc số nguyên thành một kiểu thập phân
+
+6	ToDouble
+Chuyển đổi một kiểu thành một kiểu double
+
+7	ToInt16
+Chuyển đổi một kiểu thành một 16-bit integer
+
+8	ToInt32
+Chuyển đổi một kiểu thành một 32-bit integer
+
+9	ToInt64
+Chuyển đổi một kiểu thành một 64-bit integer
+
+10	ToSbyte
+Chuyển đổi một kiểu thành một kiểu signed byte
+
+11	ToSingle
+Chuyển đổi một kiểu thành một số small floating point
+
+12	ToString
+Chuyển đổi một kiểu thành một string
+
+13	ToType
+Chuyển đổi một kiểu thành một kiểu đã xác định
+
+14	ToUInt16
+Chuyển đổi một kiểu thành một kiểu unsigned int
+
+15	ToUInt32
+Chuyển đổi một kiểu thành một kiểu unsigned long
+
+16	ToUInt64
+Chuyển đổi một kiểu thành một unsigned big integer
+
