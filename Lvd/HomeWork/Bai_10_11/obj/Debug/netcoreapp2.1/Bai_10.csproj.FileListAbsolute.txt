@@ -1,0 +1,11 @@
+E:\DCT_Unity\C#\HomeWork\Bai_10\bin\Debug\netcoreapp2.1\Bai_10.deps.json
+E:\DCT_Unity\C#\HomeWork\Bai_10\bin\Debug\netcoreapp2.1\Bai_10.runtimeconfig.json
+E:\DCT_Unity\C#\HomeWork\Bai_10\bin\Debug\netcoreapp2.1\Bai_10.runtimeconfig.dev.json
+E:\DCT_Unity\C#\HomeWork\Bai_10\bin\Debug\netcoreapp2.1\Bai_10.dll
+E:\DCT_Unity\C#\HomeWork\Bai_10\bin\Debug\netcoreapp2.1\Bai_10.pdb
+E:\DCT_Unity\C#\HomeWork\Bai_10\obj\Debug\netcoreapp2.1\Bai_10.csprojAssemblyReference.cache
+E:\DCT_Unity\C#\HomeWork\Bai_10\obj\Debug\netcoreapp2.1\Bai_10.csproj.CoreCompileInputs.cache
+E:\DCT_Unity\C#\HomeWork\Bai_10\obj\Debug\netcoreapp2.1\Bai_10.AssemblyInfoInputs.cache
+E:\DCT_Unity\C#\HomeWork\Bai_10\obj\Debug\netcoreapp2.1\Bai_10.AssemblyInfo.cs
+E:\DCT_Unity\C#\HomeWork\Bai_10\obj\Debug\netcoreapp2.1\Bai_10.dll
+E:\DCT_Unity\C#\HomeWork\Bai_10\obj\Debug\netcoreapp2.1\Bai_10.pdb
