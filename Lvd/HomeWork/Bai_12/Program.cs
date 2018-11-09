@@ -1,5 +1,5 @@
 ﻿using System;
-
+//Chưa ổn lắm về cách viết Code
 namespace Bai_12
 {
     class Program

@@ -1,5 +1,6 @@
-﻿using System;
-
+﻿
+using System;
+//OK
 namespace Bai_36
 {
     class Program

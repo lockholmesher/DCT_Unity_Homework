@@ -1,5 +1,7 @@
 ﻿using System;
 
+//Tuan Anh Cham Bai
+//Mục đích của bài này là để em học cộng chuỗi
 namespace Bai_8
 {
     class Program

@@ -1,5 +1,7 @@
 ﻿using System;
 
+//OK
+
 namespace Bai_10_11
 {
     class Program

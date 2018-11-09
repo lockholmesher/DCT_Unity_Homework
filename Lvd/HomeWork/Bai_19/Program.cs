@@ -1,5 +1,5 @@
 ﻿using System;
-
+//Hiểu sai đề bài ! Đề là ví dụ số 2 là hệ thập phân chuyển về nhị phần là 10
 namespace Bai_19
 {
     class Program

@@ -1,5 +1,7 @@
 ﻿using System;
 
+//Cần học thêm về bảng mã ASCII
+
 namespace Bai_17
 {
     class Program

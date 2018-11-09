@@ -1,5 +1,5 @@
 ﻿using System;
-
+//Nhầm lẫn giữa tam giác cân và đều
 namespace Bai_32
 {
     class Program

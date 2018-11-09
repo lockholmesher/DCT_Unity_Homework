@@ -1,5 +1,7 @@
 ﻿using System;
 
+//switch case của em để làm gì
+
 namespace Bai_5
 {
     class Program

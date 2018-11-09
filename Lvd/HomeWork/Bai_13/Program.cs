@@ -1,5 +1,5 @@
 ﻿using System;
-
+//Lập trình cần sự chính xác nên dùng Math.Pi thay cho 3.14
 namespace Bai_13
 {
     class Program

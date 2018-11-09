@@ -1,5 +1,5 @@
 ﻿using System;
-
+//Dùng Math.PI
 namespace Bai_16
 {
     class Program

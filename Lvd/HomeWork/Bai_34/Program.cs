@@ -1,5 +1,5 @@
 ﻿using System;
-
+//Xem lại cách dùng switch cass
 namespace Bai_34
 {
     class Program
