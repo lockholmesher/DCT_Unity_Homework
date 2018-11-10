@@ -1,0 +1,11 @@
+D:\02. Unity\01. C#\03.HomeWork\BT1C#\7.Chuyen_doi_do_C_sang_do_K\bin\Debug\netcoreapp2.1\7.Chuyen_doi_do_C_sang_do_K.deps.json
+D:\02. Unity\01. C#\03.HomeWork\BT1C#\7.Chuyen_doi_do_C_sang_do_K\bin\Debug\netcoreapp2.1\7.Chuyen_doi_do_C_sang_do_K.runtimeconfig.json
+D:\02. Unity\01. C#\03.HomeWork\BT1C#\7.Chuyen_doi_do_C_sang_do_K\bin\Debug\netcoreapp2.1\7.Chuyen_doi_do_C_sang_do_K.runtimeconfig.dev.json
+D:\02. Unity\01. C#\03.HomeWork\BT1C#\7.Chuyen_doi_do_C_sang_do_K\bin\Debug\netcoreapp2.1\7.Chuyen_doi_do_C_sang_do_K.dll
+D:\02. Unity\01. C#\03.HomeWork\BT1C#\7.Chuyen_doi_do_C_sang_do_K\bin\Debug\netcoreapp2.1\7.Chuyen_doi_do_C_sang_do_K.pdb
+D:\02. Unity\01. C#\03.HomeWork\BT1C#\7.Chuyen_doi_do_C_sang_do_K\obj\Debug\netcoreapp2.1\7.Chuyen_doi_do_C_sang_do_K.csprojAssemblyReference.cache
+D:\02. Unity\01. C#\03.HomeWork\BT1C#\7.Chuyen_doi_do_C_sang_do_K\obj\Debug\netcoreapp2.1\7.Chuyen_doi_do_C_sang_do_K.csproj.CoreCompileInputs.cache
+D:\02. Unity\01. C#\03.HomeWork\BT1C#\7.Chuyen_doi_do_C_sang_do_K\obj\Debug\netcoreapp2.1\7.Chuyen_doi_do_C_sang_do_K.AssemblyInfoInputs.cache
+D:\02. Unity\01. C#\03.HomeWork\BT1C#\7.Chuyen_doi_do_C_sang_do_K\obj\Debug\netcoreapp2.1\7.Chuyen_doi_do_C_sang_do_K.AssemblyInfo.cs
+D:\02. Unity\01. C#\03.HomeWork\BT1C#\7.Chuyen_doi_do_C_sang_do_K\obj\Debug\netcoreapp2.1\7.Chuyen_doi_do_C_sang_do_K.dll
+D:\02. Unity\01. C#\03.HomeWork\BT1C#\7.Chuyen_doi_do_C_sang_do_K\obj\Debug\netcoreapp2.1\7.Chuyen_doi_do_C_sang_do_K.pdb

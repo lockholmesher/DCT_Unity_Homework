@@ -1,0 +1,17 @@
+D:\02. Unity\01. C#\03.HomeWork\BT1C#\12.Nhap_hai_so_phep_toan\obj\Debug\netcoreapp2.1\12.Nhap_hai_so_phep_toan.csprojAssemblyReference.cache
+D:\02. Unity\01. C#\03.HomeWork\BT1C#\12.Nhap_hai_so_phep_toan\obj\Debug\netcoreapp2.1\12.Nhap_hai_so_phep_toan.csproj.CoreCompileInputs.cache
+D:\02. Unity\01. C#\03.HomeWork\BT1C#\12.Nhap_hai_so_phep_toan\obj\Debug\netcoreapp2.1\12.Nhap_hai_so_phep_toan.AssemblyInfoInputs.cache
+D:\02. Unity\01. C#\03.HomeWork\BT1C#\12.Nhap_hai_so_phep_toan\obj\Debug\netcoreapp2.1\12.Nhap_hai_so_phep_toan.AssemblyInfo.cs
+D:\02. Unity\01. C#\03.HomeWork\BT1C#\12.Nhap_hai_so_phep_toan\bin\Debug\netcoreapp2.1\12.Nhap_hai_so_phep_toan.deps.json
+D:\02. Unity\01. C#\03.HomeWork\BT1C#\12.Nhap_hai_so_phep_toan\bin\Debug\netcoreapp2.1\12.Nhap_hai_so_phep_toan.runtimeconfig.json
+D:\02. Unity\01. C#\03.HomeWork\BT1C#\12.Nhap_hai_so_phep_toan\bin\Debug\netcoreapp2.1\12.Nhap_hai_so_phep_toan.runtimeconfig.dev.json
+D:\02. Unity\01. C#\03.HomeWork\BT1C#\12.Nhap_hai_so_phep_toan\bin\Debug\netcoreapp2.1\12.Nhap_hai_so_phep_toan.dll
+D:\02. Unity\01. C#\03.HomeWork\BT1C#\12.Nhap_hai_so_phep_toan\bin\Debug\netcoreapp2.1\12.Nhap_hai_so_phep_toan.pdb
+D:\02. Unity\01. C#\03.HomeWork\BT1C#\12.Nhap_hai_so_phep_toan\obj\Debug\netcoreapp2.1\12.Nhap_hai_so_phep_toan.dll
+D:\02. Unity\01. C#\03.HomeWork\BT1C#\12.Nhap_hai_so_phep_toan\obj\Debug\netcoreapp2.1\12.Nhap_hai_so_phep_toan.pdb
+D:\02. Unity\01. C#\03.HomeWork\DCT_Unity_Homework\BT1C#\12.Nhap_hai_so_phep_toan\obj\Debug\netcoreapp2.1\12.Nhap_hai_so_phep_toan.csprojAssemblyReference.cache
+D:\02. Unity\01. C#\03.HomeWork\DCT_Unity_Homework\BT1C#\12.Nhap_hai_so_phep_toan\obj\Debug\netcoreapp2.1\12.Nhap_hai_so_phep_toan.csproj.CoreCompileInputs.cache
+D:\02. Unity\01. C#\03.HomeWork\DCT_Unity_Homework\BT1C#\12.Nhap_hai_so_phep_toan\obj\Debug\netcoreapp2.1\12.Nhap_hai_so_phep_toan.AssemblyInfoInputs.cache
+D:\02. Unity\01. C#\03.HomeWork\DCT_Unity_Homework\BT1C#\12.Nhap_hai_so_phep_toan\obj\Debug\netcoreapp2.1\12.Nhap_hai_so_phep_toan.AssemblyInfo.cs
+D:\02. Unity\01. C#\03.HomeWork\DCT_Unity_Homework\BT1C#\12.Nhap_hai_so_phep_toan\obj\Debug\netcoreapp2.1\12.Nhap_hai_so_phep_toan.dll
+D:\02. Unity\01. C#\03.HomeWork\DCT_Unity_Homework\BT1C#\12.Nhap_hai_so_phep_toan\obj\Debug\netcoreapp2.1\12.Nhap_hai_so_phep_toan.pdb

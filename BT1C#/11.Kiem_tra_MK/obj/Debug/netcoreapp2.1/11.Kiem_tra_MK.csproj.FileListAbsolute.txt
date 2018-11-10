@@ -1,0 +1,15 @@
+D:\02. Unity\01. C#\03.HomeWork\BT1C#\11.Kiem_tra_MK\obj\Debug\netcoreapp2.1\11.Kiem_tra_MK.csprojAssemblyReference.cache
+D:\02. Unity\01. C#\03.HomeWork\BT1C#\11.Kiem_tra_MK\obj\Debug\netcoreapp2.1\11.Kiem_tra_MK.csproj.CoreCompileInputs.cache
+D:\02. Unity\01. C#\03.HomeWork\BT1C#\11.Kiem_tra_MK\obj\Debug\netcoreapp2.1\11.Kiem_tra_MK.AssemblyInfoInputs.cache
+D:\02. Unity\01. C#\03.HomeWork\BT1C#\11.Kiem_tra_MK\obj\Debug\netcoreapp2.1\11.Kiem_tra_MK.AssemblyInfo.cs
+D:\02. Unity\01. C#\03.HomeWork\DCT_Unity_Homework\BT1C#\11.Kiem_tra_MK\obj\Debug\netcoreapp2.1\11.Kiem_tra_MK.csprojAssemblyReference.cache
+D:\02. Unity\01. C#\03.HomeWork\DCT_Unity_Homework\BT1C#\11.Kiem_tra_MK\obj\Debug\netcoreapp2.1\11.Kiem_tra_MK.csproj.CoreCompileInputs.cache
+D:\02. Unity\01. C#\03.HomeWork\DCT_Unity_Homework\BT1C#\11.Kiem_tra_MK\obj\Debug\netcoreapp2.1\11.Kiem_tra_MK.AssemblyInfoInputs.cache
+D:\02. Unity\01. C#\03.HomeWork\DCT_Unity_Homework\BT1C#\11.Kiem_tra_MK\obj\Debug\netcoreapp2.1\11.Kiem_tra_MK.AssemblyInfo.cs
+D:\02. Unity\01. C#\03.HomeWork\DCT_Unity_Homework\BT1C#\11.Kiem_tra_MK\bin\Debug\netcoreapp2.1\11.Kiem_tra_MK.deps.json
+D:\02. Unity\01. C#\03.HomeWork\DCT_Unity_Homework\BT1C#\11.Kiem_tra_MK\bin\Debug\netcoreapp2.1\11.Kiem_tra_MK.runtimeconfig.json
+D:\02. Unity\01. C#\03.HomeWork\DCT_Unity_Homework\BT1C#\11.Kiem_tra_MK\bin\Debug\netcoreapp2.1\11.Kiem_tra_MK.runtimeconfig.dev.json
+D:\02. Unity\01. C#\03.HomeWork\DCT_Unity_Homework\BT1C#\11.Kiem_tra_MK\bin\Debug\netcoreapp2.1\11.Kiem_tra_MK.dll
+D:\02. Unity\01. C#\03.HomeWork\DCT_Unity_Homework\BT1C#\11.Kiem_tra_MK\bin\Debug\netcoreapp2.1\11.Kiem_tra_MK.pdb
+D:\02. Unity\01. C#\03.HomeWork\DCT_Unity_Homework\BT1C#\11.Kiem_tra_MK\obj\Debug\netcoreapp2.1\11.Kiem_tra_MK.dll
+D:\02. Unity\01. C#\03.HomeWork\DCT_Unity_Homework\BT1C#\11.Kiem_tra_MK\obj\Debug\netcoreapp2.1\11.Kiem_tra_MK.pdb

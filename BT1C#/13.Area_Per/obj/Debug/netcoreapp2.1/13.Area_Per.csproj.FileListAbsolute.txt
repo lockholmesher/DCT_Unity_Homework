@@ -1,0 +1,11 @@
+D:\02. Unity\01. C#\03.HomeWork\BT1C#\13.Area_Per\obj\Debug\netcoreapp2.1\13.Area_Per.csprojAssemblyReference.cache
+D:\02. Unity\01. C#\03.HomeWork\BT1C#\13.Area_Per\obj\Debug\netcoreapp2.1\13.Area_Per.csproj.CoreCompileInputs.cache
+D:\02. Unity\01. C#\03.HomeWork\BT1C#\13.Area_Per\obj\Debug\netcoreapp2.1\13.Area_Per.AssemblyInfoInputs.cache
+D:\02. Unity\01. C#\03.HomeWork\BT1C#\13.Area_Per\obj\Debug\netcoreapp2.1\13.Area_Per.AssemblyInfo.cs
+D:\02. Unity\01. C#\03.HomeWork\BT1C#\13.Area_Per\bin\Debug\netcoreapp2.1\13.Area_Per.deps.json
+D:\02. Unity\01. C#\03.HomeWork\BT1C#\13.Area_Per\bin\Debug\netcoreapp2.1\13.Area_Per.runtimeconfig.json
+D:\02. Unity\01. C#\03.HomeWork\BT1C#\13.Area_Per\bin\Debug\netcoreapp2.1\13.Area_Per.runtimeconfig.dev.json
+D:\02. Unity\01. C#\03.HomeWork\BT1C#\13.Area_Per\bin\Debug\netcoreapp2.1\13.Area_Per.dll
+D:\02. Unity\01. C#\03.HomeWork\BT1C#\13.Area_Per\bin\Debug\netcoreapp2.1\13.Area_Per.pdb
+D:\02. Unity\01. C#\03.HomeWork\BT1C#\13.Area_Per\obj\Debug\netcoreapp2.1\13.Area_Per.dll
+D:\02. Unity\01. C#\03.HomeWork\BT1C#\13.Area_Per\obj\Debug\netcoreapp2.1\13.Area_Per.pdb

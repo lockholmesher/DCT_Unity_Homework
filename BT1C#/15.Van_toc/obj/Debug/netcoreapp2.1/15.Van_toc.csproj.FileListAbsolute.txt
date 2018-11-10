@@ -1,0 +1,11 @@
+D:\02. Unity\01. C#\03.HomeWork\BT1C#\15.Van_toc\bin\Debug\netcoreapp2.1\15.Van_toc.deps.json
+D:\02. Unity\01. C#\03.HomeWork\BT1C#\15.Van_toc\bin\Debug\netcoreapp2.1\15.Van_toc.runtimeconfig.json
+D:\02. Unity\01. C#\03.HomeWork\BT1C#\15.Van_toc\bin\Debug\netcoreapp2.1\15.Van_toc.runtimeconfig.dev.json
+D:\02. Unity\01. C#\03.HomeWork\BT1C#\15.Van_toc\bin\Debug\netcoreapp2.1\15.Van_toc.dll
+D:\02. Unity\01. C#\03.HomeWork\BT1C#\15.Van_toc\bin\Debug\netcoreapp2.1\15.Van_toc.pdb
+D:\02. Unity\01. C#\03.HomeWork\BT1C#\15.Van_toc\obj\Debug\netcoreapp2.1\15.Van_toc.csprojAssemblyReference.cache
+D:\02. Unity\01. C#\03.HomeWork\BT1C#\15.Van_toc\obj\Debug\netcoreapp2.1\15.Van_toc.csproj.CoreCompileInputs.cache
+D:\02. Unity\01. C#\03.HomeWork\BT1C#\15.Van_toc\obj\Debug\netcoreapp2.1\15.Van_toc.AssemblyInfoInputs.cache
+D:\02. Unity\01. C#\03.HomeWork\BT1C#\15.Van_toc\obj\Debug\netcoreapp2.1\15.Van_toc.AssemblyInfo.cs
+D:\02. Unity\01. C#\03.HomeWork\BT1C#\15.Van_toc\obj\Debug\netcoreapp2.1\15.Van_toc.dll
+D:\02. Unity\01. C#\03.HomeWork\BT1C#\15.Van_toc\obj\Debug\netcoreapp2.1\15.Van_toc.pdb

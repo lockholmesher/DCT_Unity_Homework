@@ -1,0 +1,11 @@
+D:\02. Unity\01. C#\03.HomeWork\BT1C#\6.Gia_tri_trung_binh\bin\Debug\netcoreapp2.1\6.Gia_tri_trung_binh.deps.json
+D:\02. Unity\01. C#\03.HomeWork\BT1C#\6.Gia_tri_trung_binh\bin\Debug\netcoreapp2.1\6.Gia_tri_trung_binh.runtimeconfig.json
+D:\02. Unity\01. C#\03.HomeWork\BT1C#\6.Gia_tri_trung_binh\bin\Debug\netcoreapp2.1\6.Gia_tri_trung_binh.runtimeconfig.dev.json
+D:\02. Unity\01. C#\03.HomeWork\BT1C#\6.Gia_tri_trung_binh\bin\Debug\netcoreapp2.1\6.Gia_tri_trung_binh.dll
+D:\02. Unity\01. C#\03.HomeWork\BT1C#\6.Gia_tri_trung_binh\bin\Debug\netcoreapp2.1\6.Gia_tri_trung_binh.pdb
+D:\02. Unity\01. C#\03.HomeWork\BT1C#\6.Gia_tri_trung_binh\obj\Debug\netcoreapp2.1\6.Gia_tri_trung_binh.csprojAssemblyReference.cache
+D:\02. Unity\01. C#\03.HomeWork\BT1C#\6.Gia_tri_trung_binh\obj\Debug\netcoreapp2.1\6.Gia_tri_trung_binh.csproj.CoreCompileInputs.cache
+D:\02. Unity\01. C#\03.HomeWork\BT1C#\6.Gia_tri_trung_binh\obj\Debug\netcoreapp2.1\6.Gia_tri_trung_binh.AssemblyInfoInputs.cache
+D:\02. Unity\01. C#\03.HomeWork\BT1C#\6.Gia_tri_trung_binh\obj\Debug\netcoreapp2.1\6.Gia_tri_trung_binh.AssemblyInfo.cs
+D:\02. Unity\01. C#\03.HomeWork\BT1C#\6.Gia_tri_trung_binh\obj\Debug\netcoreapp2.1\6.Gia_tri_trung_binh.dll
+D:\02. Unity\01. C#\03.HomeWork\BT1C#\6.Gia_tri_trung_binh\obj\Debug\netcoreapp2.1\6.Gia_tri_trung_binh.pdb

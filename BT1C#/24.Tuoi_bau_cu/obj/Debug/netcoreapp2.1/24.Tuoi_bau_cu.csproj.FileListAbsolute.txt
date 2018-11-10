@@ -1,0 +1,11 @@
+D:\02. Unity\01. C#\03.HomeWork\DCT_Unity_Homework\BT1C#\24.Tuoi_bau_cu\bin\Debug\netcoreapp2.1\24.Tuoi_bau_cu.deps.json
+D:\02. Unity\01. C#\03.HomeWork\DCT_Unity_Homework\BT1C#\24.Tuoi_bau_cu\bin\Debug\netcoreapp2.1\24.Tuoi_bau_cu.runtimeconfig.json
+D:\02. Unity\01. C#\03.HomeWork\DCT_Unity_Homework\BT1C#\24.Tuoi_bau_cu\bin\Debug\netcoreapp2.1\24.Tuoi_bau_cu.runtimeconfig.dev.json
+D:\02. Unity\01. C#\03.HomeWork\DCT_Unity_Homework\BT1C#\24.Tuoi_bau_cu\bin\Debug\netcoreapp2.1\24.Tuoi_bau_cu.dll
+D:\02. Unity\01. C#\03.HomeWork\DCT_Unity_Homework\BT1C#\24.Tuoi_bau_cu\bin\Debug\netcoreapp2.1\24.Tuoi_bau_cu.pdb
+D:\02. Unity\01. C#\03.HomeWork\DCT_Unity_Homework\BT1C#\24.Tuoi_bau_cu\obj\Debug\netcoreapp2.1\24.Tuoi_bau_cu.csprojAssemblyReference.cache
+D:\02. Unity\01. C#\03.HomeWork\DCT_Unity_Homework\BT1C#\24.Tuoi_bau_cu\obj\Debug\netcoreapp2.1\24.Tuoi_bau_cu.csproj.CoreCompileInputs.cache
+D:\02. Unity\01. C#\03.HomeWork\DCT_Unity_Homework\BT1C#\24.Tuoi_bau_cu\obj\Debug\netcoreapp2.1\24.Tuoi_bau_cu.AssemblyInfoInputs.cache
+D:\02. Unity\01. C#\03.HomeWork\DCT_Unity_Homework\BT1C#\24.Tuoi_bau_cu\obj\Debug\netcoreapp2.1\24.Tuoi_bau_cu.AssemblyInfo.cs
+D:\02. Unity\01. C#\03.HomeWork\DCT_Unity_Homework\BT1C#\24.Tuoi_bau_cu\obj\Debug\netcoreapp2.1\24.Tuoi_bau_cu.dll
+D:\02. Unity\01. C#\03.HomeWork\DCT_Unity_Homework\BT1C#\24.Tuoi_bau_cu\obj\Debug\netcoreapp2.1\24.Tuoi_bau_cu.pdb

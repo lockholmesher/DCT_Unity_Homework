@@ -1,0 +1,4 @@
+D:\02. Unity\01. C#\03.HomeWork\DCT_Unity_Homework\BT1C#\21.Kiem_tra_chan_le\obj\Debug\netcoreapp2.1\21.Kiem_tra_chan_le.csprojAssemblyReference.cache
+D:\02. Unity\01. C#\03.HomeWork\DCT_Unity_Homework\BT1C#\21.Kiem_tra_chan_le\obj\Debug\netcoreapp2.1\21.Kiem_tra_chan_le.csproj.CoreCompileInputs.cache
+D:\02. Unity\01. C#\03.HomeWork\DCT_Unity_Homework\BT1C#\21.Kiem_tra_chan_le\obj\Debug\netcoreapp2.1\21.Kiem_tra_chan_le.AssemblyInfoInputs.cache
+D:\02. Unity\01. C#\03.HomeWork\DCT_Unity_Homework\BT1C#\21.Kiem_tra_chan_le\obj\Debug\netcoreapp2.1\21.Kiem_tra_chan_le.AssemblyInfo.cs

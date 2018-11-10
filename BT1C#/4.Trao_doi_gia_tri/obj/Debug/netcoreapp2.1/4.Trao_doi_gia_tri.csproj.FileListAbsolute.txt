@@ -1,0 +1,11 @@
+D:\02. Unity\01. C#\03.HomeWork\BT1C#\4.Trao_doi_gia_tri\bin\Debug\netcoreapp2.1\4.Trao_doi_gia_tri.deps.json
+D:\02. Unity\01. C#\03.HomeWork\BT1C#\4.Trao_doi_gia_tri\bin\Debug\netcoreapp2.1\4.Trao_doi_gia_tri.runtimeconfig.json
+D:\02. Unity\01. C#\03.HomeWork\BT1C#\4.Trao_doi_gia_tri\bin\Debug\netcoreapp2.1\4.Trao_doi_gia_tri.runtimeconfig.dev.json
+D:\02. Unity\01. C#\03.HomeWork\BT1C#\4.Trao_doi_gia_tri\bin\Debug\netcoreapp2.1\4.Trao_doi_gia_tri.dll
+D:\02. Unity\01. C#\03.HomeWork\BT1C#\4.Trao_doi_gia_tri\bin\Debug\netcoreapp2.1\4.Trao_doi_gia_tri.pdb
+D:\02. Unity\01. C#\03.HomeWork\BT1C#\4.Trao_doi_gia_tri\obj\Debug\netcoreapp2.1\4.Trao_doi_gia_tri.csprojAssemblyReference.cache
+D:\02. Unity\01. C#\03.HomeWork\BT1C#\4.Trao_doi_gia_tri\obj\Debug\netcoreapp2.1\4.Trao_doi_gia_tri.csproj.CoreCompileInputs.cache
+D:\02. Unity\01. C#\03.HomeWork\BT1C#\4.Trao_doi_gia_tri\obj\Debug\netcoreapp2.1\4.Trao_doi_gia_tri.AssemblyInfoInputs.cache
+D:\02. Unity\01. C#\03.HomeWork\BT1C#\4.Trao_doi_gia_tri\obj\Debug\netcoreapp2.1\4.Trao_doi_gia_tri.AssemblyInfo.cs
+D:\02. Unity\01. C#\03.HomeWork\BT1C#\4.Trao_doi_gia_tri\obj\Debug\netcoreapp2.1\4.Trao_doi_gia_tri.dll
+D:\02. Unity\01. C#\03.HomeWork\BT1C#\4.Trao_doi_gia_tri\obj\Debug\netcoreapp2.1\4.Trao_doi_gia_tri.pdb

@@ -1,0 +1,11 @@
+D:\02. Unity\01. C#\03.HomeWork\BT1C#\2.Tim_tong_hai_so\bin\Debug\netcoreapp2.1\2.Tim_tong_hai_so.deps.json
+D:\02. Unity\01. C#\03.HomeWork\BT1C#\2.Tim_tong_hai_so\bin\Debug\netcoreapp2.1\2.Tim_tong_hai_so.runtimeconfig.json
+D:\02. Unity\01. C#\03.HomeWork\BT1C#\2.Tim_tong_hai_so\bin\Debug\netcoreapp2.1\2.Tim_tong_hai_so.runtimeconfig.dev.json
+D:\02. Unity\01. C#\03.HomeWork\BT1C#\2.Tim_tong_hai_so\bin\Debug\netcoreapp2.1\2.Tim_tong_hai_so.dll
+D:\02. Unity\01. C#\03.HomeWork\BT1C#\2.Tim_tong_hai_so\bin\Debug\netcoreapp2.1\2.Tim_tong_hai_so.pdb
+D:\02. Unity\01. C#\03.HomeWork\BT1C#\2.Tim_tong_hai_so\obj\Debug\netcoreapp2.1\2.Tim_tong_hai_so.csprojAssemblyReference.cache
+D:\02. Unity\01. C#\03.HomeWork\BT1C#\2.Tim_tong_hai_so\obj\Debug\netcoreapp2.1\2.Tim_tong_hai_so.csproj.CoreCompileInputs.cache
+D:\02. Unity\01. C#\03.HomeWork\BT1C#\2.Tim_tong_hai_so\obj\Debug\netcoreapp2.1\2.Tim_tong_hai_so.AssemblyInfoInputs.cache
+D:\02. Unity\01. C#\03.HomeWork\BT1C#\2.Tim_tong_hai_so\obj\Debug\netcoreapp2.1\2.Tim_tong_hai_so.AssemblyInfo.cs
+D:\02. Unity\01. C#\03.HomeWork\BT1C#\2.Tim_tong_hai_so\obj\Debug\netcoreapp2.1\2.Tim_tong_hai_so.dll
+D:\02. Unity\01. C#\03.HomeWork\BT1C#\2.Tim_tong_hai_so\obj\Debug\netcoreapp2.1\2.Tim_tong_hai_so.pdb

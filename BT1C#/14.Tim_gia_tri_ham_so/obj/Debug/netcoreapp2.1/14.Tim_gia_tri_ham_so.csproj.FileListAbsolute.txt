@@ -1,0 +1,11 @@
+D:\02. Unity\01. C#\03.HomeWork\BT1C#\14.Tim_gia_tri_ham_so\obj\Debug\netcoreapp2.1\14.Tim_gia_tri_ham_so.csprojAssemblyReference.cache
+D:\02. Unity\01. C#\03.HomeWork\BT1C#\14.Tim_gia_tri_ham_so\obj\Debug\netcoreapp2.1\14.Tim_gia_tri_ham_so.csproj.CoreCompileInputs.cache
+D:\02. Unity\01. C#\03.HomeWork\BT1C#\14.Tim_gia_tri_ham_so\obj\Debug\netcoreapp2.1\14.Tim_gia_tri_ham_so.AssemblyInfoInputs.cache
+D:\02. Unity\01. C#\03.HomeWork\BT1C#\14.Tim_gia_tri_ham_so\obj\Debug\netcoreapp2.1\14.Tim_gia_tri_ham_so.AssemblyInfo.cs
+D:\02. Unity\01. C#\03.HomeWork\BT1C#\14.Tim_gia_tri_ham_so\bin\Debug\netcoreapp2.1\14.Tim_gia_tri_ham_so.deps.json
+D:\02. Unity\01. C#\03.HomeWork\BT1C#\14.Tim_gia_tri_ham_so\bin\Debug\netcoreapp2.1\14.Tim_gia_tri_ham_so.runtimeconfig.json
+D:\02. Unity\01. C#\03.HomeWork\BT1C#\14.Tim_gia_tri_ham_so\bin\Debug\netcoreapp2.1\14.Tim_gia_tri_ham_so.runtimeconfig.dev.json
+D:\02. Unity\01. C#\03.HomeWork\BT1C#\14.Tim_gia_tri_ham_so\bin\Debug\netcoreapp2.1\14.Tim_gia_tri_ham_so.dll
+D:\02. Unity\01. C#\03.HomeWork\BT1C#\14.Tim_gia_tri_ham_so\bin\Debug\netcoreapp2.1\14.Tim_gia_tri_ham_so.pdb
+D:\02. Unity\01. C#\03.HomeWork\BT1C#\14.Tim_gia_tri_ham_so\obj\Debug\netcoreapp2.1\14.Tim_gia_tri_ham_so.dll
+D:\02. Unity\01. C#\03.HomeWork\BT1C#\14.Tim_gia_tri_ham_so\obj\Debug\netcoreapp2.1\14.Tim_gia_tri_ham_so.pdb

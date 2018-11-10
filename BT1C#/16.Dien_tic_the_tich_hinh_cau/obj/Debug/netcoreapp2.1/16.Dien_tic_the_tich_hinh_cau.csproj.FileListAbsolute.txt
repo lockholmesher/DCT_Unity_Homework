@@ -1,0 +1,11 @@
+D:\02. Unity\01. C#\03.HomeWork\BT1C#\16.Dien_tic_the_tich_hinh_cau\obj\Debug\netcoreapp2.1\16.Dien_tic_the_tich_hinh_cau.csprojAssemblyReference.cache
+D:\02. Unity\01. C#\03.HomeWork\BT1C#\16.Dien_tic_the_tich_hinh_cau\obj\Debug\netcoreapp2.1\16.Dien_tic_the_tich_hinh_cau.csproj.CoreCompileInputs.cache
+D:\02. Unity\01. C#\03.HomeWork\BT1C#\16.Dien_tic_the_tich_hinh_cau\obj\Debug\netcoreapp2.1\16.Dien_tic_the_tich_hinh_cau.AssemblyInfoInputs.cache
+D:\02. Unity\01. C#\03.HomeWork\BT1C#\16.Dien_tic_the_tich_hinh_cau\obj\Debug\netcoreapp2.1\16.Dien_tic_the_tich_hinh_cau.AssemblyInfo.cs
+D:\02. Unity\01. C#\03.HomeWork\BT1C#\16.Dien_tic_the_tich_hinh_cau\bin\Debug\netcoreapp2.1\16.Dien_tic_the_tich_hinh_cau.deps.json
+D:\02. Unity\01. C#\03.HomeWork\BT1C#\16.Dien_tic_the_tich_hinh_cau\bin\Debug\netcoreapp2.1\16.Dien_tic_the_tich_hinh_cau.runtimeconfig.json
+D:\02. Unity\01. C#\03.HomeWork\BT1C#\16.Dien_tic_the_tich_hinh_cau\bin\Debug\netcoreapp2.1\16.Dien_tic_the_tich_hinh_cau.runtimeconfig.dev.json
+D:\02. Unity\01. C#\03.HomeWork\BT1C#\16.Dien_tic_the_tich_hinh_cau\bin\Debug\netcoreapp2.1\16.Dien_tic_the_tich_hinh_cau.dll
+D:\02. Unity\01. C#\03.HomeWork\BT1C#\16.Dien_tic_the_tich_hinh_cau\bin\Debug\netcoreapp2.1\16.Dien_tic_the_tich_hinh_cau.pdb
+D:\02. Unity\01. C#\03.HomeWork\BT1C#\16.Dien_tic_the_tich_hinh_cau\obj\Debug\netcoreapp2.1\16.Dien_tic_the_tich_hinh_cau.dll
+D:\02. Unity\01. C#\03.HomeWork\BT1C#\16.Dien_tic_the_tich_hinh_cau\obj\Debug\netcoreapp2.1\16.Dien_tic_the_tich_hinh_cau.pdb
