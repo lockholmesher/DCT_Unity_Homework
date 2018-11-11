@@ -1,0 +1,11 @@
+E:\DCT_Unity\C#\DCT_Unity_Homework\Lvd\HomeWork2\Bai_64\bin\Debug\netcoreapp2.1\Bai_64.deps.json
+E:\DCT_Unity\C#\DCT_Unity_Homework\Lvd\HomeWork2\Bai_64\bin\Debug\netcoreapp2.1\Bai_64.runtimeconfig.json
+E:\DCT_Unity\C#\DCT_Unity_Homework\Lvd\HomeWork2\Bai_64\bin\Debug\netcoreapp2.1\Bai_64.runtimeconfig.dev.json
+E:\DCT_Unity\C#\DCT_Unity_Homework\Lvd\HomeWork2\Bai_64\bin\Debug\netcoreapp2.1\Bai_64.dll
+E:\DCT_Unity\C#\DCT_Unity_Homework\Lvd\HomeWork2\Bai_64\bin\Debug\netcoreapp2.1\Bai_64.pdb
+E:\DCT_Unity\C#\DCT_Unity_Homework\Lvd\HomeWork2\Bai_64\obj\Debug\netcoreapp2.1\Bai_64.csprojAssemblyReference.cache
+E:\DCT_Unity\C#\DCT_Unity_Homework\Lvd\HomeWork2\Bai_64\obj\Debug\netcoreapp2.1\Bai_64.csproj.CoreCompileInputs.cache
+E:\DCT_Unity\C#\DCT_Unity_Homework\Lvd\HomeWork2\Bai_64\obj\Debug\netcoreapp2.1\Bai_64.AssemblyInfoInputs.cache
+E:\DCT_Unity\C#\DCT_Unity_Homework\Lvd\HomeWork2\Bai_64\obj\Debug\netcoreapp2.1\Bai_64.AssemblyInfo.cs
+E:\DCT_Unity\C#\DCT_Unity_Homework\Lvd\HomeWork2\Bai_64\obj\Debug\netcoreapp2.1\Bai_64.dll
+E:\DCT_Unity\C#\DCT_Unity_Homework\Lvd\HomeWork2\Bai_64\obj\Debug\netcoreapp2.1\Bai_64.pdb
