@@ -1,0 +1,11 @@
+D:\02. Unity\01. C#\03.HomeWork\DCT_Unity_Homework\BT1C#\29.Xet_diem_thi\obj\Debug\netcoreapp2.1\29.Xet_diem_thi.csprojAssemblyReference.cache
+D:\02. Unity\01. C#\03.HomeWork\DCT_Unity_Homework\BT1C#\29.Xet_diem_thi\obj\Debug\netcoreapp2.1\29.Xet_diem_thi.csproj.CoreCompileInputs.cache
+D:\02. Unity\01. C#\03.HomeWork\DCT_Unity_Homework\BT1C#\29.Xet_diem_thi\obj\Debug\netcoreapp2.1\29.Xet_diem_thi.AssemblyInfoInputs.cache
+D:\02. Unity\01. C#\03.HomeWork\DCT_Unity_Homework\BT1C#\29.Xet_diem_thi\obj\Debug\netcoreapp2.1\29.Xet_diem_thi.AssemblyInfo.cs
+D:\02. Unity\01. C#\03.HomeWork\DCT_Unity_Homework\BT1C#\29.Xet_diem_thi\bin\Debug\netcoreapp2.1\29.Xet_diem_thi.deps.json
+D:\02. Unity\01. C#\03.HomeWork\DCT_Unity_Homework\BT1C#\29.Xet_diem_thi\bin\Debug\netcoreapp2.1\29.Xet_diem_thi.runtimeconfig.json
+D:\02. Unity\01. C#\03.HomeWork\DCT_Unity_Homework\BT1C#\29.Xet_diem_thi\bin\Debug\netcoreapp2.1\29.Xet_diem_thi.runtimeconfig.dev.json
+D:\02. Unity\01. C#\03.HomeWork\DCT_Unity_Homework\BT1C#\29.Xet_diem_thi\bin\Debug\netcoreapp2.1\29.Xet_diem_thi.dll
+D:\02. Unity\01. C#\03.HomeWork\DCT_Unity_Homework\BT1C#\29.Xet_diem_thi\bin\Debug\netcoreapp2.1\29.Xet_diem_thi.pdb
+D:\02. Unity\01. C#\03.HomeWork\DCT_Unity_Homework\BT1C#\29.Xet_diem_thi\obj\Debug\netcoreapp2.1\29.Xet_diem_thi.dll
+D:\02. Unity\01. C#\03.HomeWork\DCT_Unity_Homework\BT1C#\29.Xet_diem_thi\obj\Debug\netcoreapp2.1\29.Xet_diem_thi.pdb

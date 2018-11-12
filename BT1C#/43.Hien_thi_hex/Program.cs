@@ -13,7 +13,7 @@ namespace _43.Hien_thi_hex
         string ConvertHex(int Dec)
         {
         while(Dec%)  
-        string du;
+        string du;c
         }
     }
 }

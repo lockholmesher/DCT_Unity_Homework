@@ -1,0 +1,11 @@
+D:\02. Unity\01. C#\03.HomeWork\DCT_Unity_Homework\BT1C#\28.Goc_Phan_Tu\bin\Debug\netcoreapp2.1\28.Goc_Phan_Tu.deps.json
+D:\02. Unity\01. C#\03.HomeWork\DCT_Unity_Homework\BT1C#\28.Goc_Phan_Tu\bin\Debug\netcoreapp2.1\28.Goc_Phan_Tu.runtimeconfig.json
+D:\02. Unity\01. C#\03.HomeWork\DCT_Unity_Homework\BT1C#\28.Goc_Phan_Tu\bin\Debug\netcoreapp2.1\28.Goc_Phan_Tu.runtimeconfig.dev.json
+D:\02. Unity\01. C#\03.HomeWork\DCT_Unity_Homework\BT1C#\28.Goc_Phan_Tu\bin\Debug\netcoreapp2.1\28.Goc_Phan_Tu.dll
+D:\02. Unity\01. C#\03.HomeWork\DCT_Unity_Homework\BT1C#\28.Goc_Phan_Tu\bin\Debug\netcoreapp2.1\28.Goc_Phan_Tu.pdb
+D:\02. Unity\01. C#\03.HomeWork\DCT_Unity_Homework\BT1C#\28.Goc_Phan_Tu\obj\Debug\netcoreapp2.1\28.Goc_Phan_Tu.csprojAssemblyReference.cache
+D:\02. Unity\01. C#\03.HomeWork\DCT_Unity_Homework\BT1C#\28.Goc_Phan_Tu\obj\Debug\netcoreapp2.1\28.Goc_Phan_Tu.csproj.CoreCompileInputs.cache
+D:\02. Unity\01. C#\03.HomeWork\DCT_Unity_Homework\BT1C#\28.Goc_Phan_Tu\obj\Debug\netcoreapp2.1\28.Goc_Phan_Tu.AssemblyInfoInputs.cache
+D:\02. Unity\01. C#\03.HomeWork\DCT_Unity_Homework\BT1C#\28.Goc_Phan_Tu\obj\Debug\netcoreapp2.1\28.Goc_Phan_Tu.AssemblyInfo.cs
+D:\02. Unity\01. C#\03.HomeWork\DCT_Unity_Homework\BT1C#\28.Goc_Phan_Tu\obj\Debug\netcoreapp2.1\28.Goc_Phan_Tu.dll
+D:\02. Unity\01. C#\03.HomeWork\DCT_Unity_Homework\BT1C#\28.Goc_Phan_Tu\obj\Debug\netcoreapp2.1\28.Goc_Phan_Tu.pdb
