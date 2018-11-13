@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\02. Unity\\01. C#\\03.HomeWork\\BT1C#\\4.Trao_doi_gia_tri\\4.Trao_doi_gia_tri.csproj",
+      "projectUniqueName": "d:\\02. Unity\\01. C#\\03.HomeWork\\DCT_Unity_Homework\\BT1C#\\4.Trao_doi_gia_tri\\4.Trao_doi_gia_tri.csproj",
       "projectName": "4.Trao_doi_gia_tri",
-      "projectPath": "D:\\02. Unity\\01. C#\\03.HomeWork\\BT1C#\\4.Trao_doi_gia_tri\\4.Trao_doi_gia_tri.csproj",
+      "projectPath": "d:\\02. Unity\\01. C#\\03.HomeWork\\DCT_Unity_Homework\\BT1C#\\4.Trao_doi_gia_tri\\4.Trao_doi_gia_tri.csproj",
       "packagesPath": "C:\\Users\\Hoang Minh\\.nuget\\packages\\",
-      "outputPath": "D:\\02. Unity\\01. C#\\03.HomeWork\\BT1C#\\4.Trao_doi_gia_tri\\obj\\",
+      "outputPath": "d:\\02. Unity\\01. C#\\03.HomeWork\\DCT_Unity_Homework\\BT1C#\\4.Trao_doi_gia_tri\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

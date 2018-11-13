@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\02. Unity\\01. C#\\03.HomeWork\\BT1C#\\7.Chuyen_doi_do_C_sang_do_K\\7.Chuyen_doi_do_C_sang_do_K.csproj",
+      "projectUniqueName": "d:\\02. Unity\\01. C#\\03.HomeWork\\DCT_Unity_Homework\\BT1C#\\7.Chuyen_doi_do_C_sang_do_K\\7.Chuyen_doi_do_C_sang_do_K.csproj",
       "projectName": "7.Chuyen_doi_do_C_sang_do_K",
-      "projectPath": "D:\\02. Unity\\01. C#\\03.HomeWork\\BT1C#\\7.Chuyen_doi_do_C_sang_do_K\\7.Chuyen_doi_do_C_sang_do_K.csproj",
+      "projectPath": "d:\\02. Unity\\01. C#\\03.HomeWork\\DCT_Unity_Homework\\BT1C#\\7.Chuyen_doi_do_C_sang_do_K\\7.Chuyen_doi_do_C_sang_do_K.csproj",
       "packagesPath": "C:\\Users\\Hoang Minh\\.nuget\\packages\\",
-      "outputPath": "D:\\02. Unity\\01. C#\\03.HomeWork\\BT1C#\\7.Chuyen_doi_do_C_sang_do_K\\obj\\",
+      "outputPath": "d:\\02. Unity\\01. C#\\03.HomeWork\\DCT_Unity_Homework\\BT1C#\\7.Chuyen_doi_do_C_sang_do_K\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

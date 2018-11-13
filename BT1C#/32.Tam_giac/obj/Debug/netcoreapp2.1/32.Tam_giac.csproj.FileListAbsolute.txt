@@ -1,0 +1,11 @@
+D:\02. Unity\01. C#\03.HomeWork\DCT_Unity_Homework\BT1C#\32.Tam_giac\obj\Debug\netcoreapp2.1\32.Tam_giac.csprojAssemblyReference.cache
+D:\02. Unity\01. C#\03.HomeWork\DCT_Unity_Homework\BT1C#\32.Tam_giac\obj\Debug\netcoreapp2.1\32.Tam_giac.csproj.CoreCompileInputs.cache
+D:\02. Unity\01. C#\03.HomeWork\DCT_Unity_Homework\BT1C#\32.Tam_giac\obj\Debug\netcoreapp2.1\32.Tam_giac.AssemblyInfoInputs.cache
+D:\02. Unity\01. C#\03.HomeWork\DCT_Unity_Homework\BT1C#\32.Tam_giac\obj\Debug\netcoreapp2.1\32.Tam_giac.AssemblyInfo.cs
+D:\02. Unity\01. C#\03.HomeWork\DCT_Unity_Homework\BT1C#\32.Tam_giac\bin\Debug\netcoreapp2.1\32.Tam_giac.deps.json
+D:\02. Unity\01. C#\03.HomeWork\DCT_Unity_Homework\BT1C#\32.Tam_giac\bin\Debug\netcoreapp2.1\32.Tam_giac.runtimeconfig.json
+D:\02. Unity\01. C#\03.HomeWork\DCT_Unity_Homework\BT1C#\32.Tam_giac\bin\Debug\netcoreapp2.1\32.Tam_giac.runtimeconfig.dev.json
+D:\02. Unity\01. C#\03.HomeWork\DCT_Unity_Homework\BT1C#\32.Tam_giac\bin\Debug\netcoreapp2.1\32.Tam_giac.dll
+D:\02. Unity\01. C#\03.HomeWork\DCT_Unity_Homework\BT1C#\32.Tam_giac\bin\Debug\netcoreapp2.1\32.Tam_giac.pdb
+D:\02. Unity\01. C#\03.HomeWork\DCT_Unity_Homework\BT1C#\32.Tam_giac\obj\Debug\netcoreapp2.1\32.Tam_giac.dll
+D:\02. Unity\01. C#\03.HomeWork\DCT_Unity_Homework\BT1C#\32.Tam_giac\obj\Debug\netcoreapp2.1\32.Tam_giac.pdb
