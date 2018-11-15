@@ -1,0 +1,4 @@
+D:\02. Unity\01. C#\03.HomeWork\DCT_Unity_Homework\BT1C#\33.Goc_tam_giac\obj\Debug\netcoreapp2.1\33.Goc_tam_giac.csprojAssemblyReference.cache
+D:\02. Unity\01. C#\03.HomeWork\DCT_Unity_Homework\BT1C#\33.Goc_tam_giac\obj\Debug\netcoreapp2.1\33.Goc_tam_giac.csproj.CoreCompileInputs.cache
+D:\02. Unity\01. C#\03.HomeWork\DCT_Unity_Homework\BT1C#\33.Goc_tam_giac\obj\Debug\netcoreapp2.1\33.Goc_tam_giac.AssemblyInfoInputs.cache
+D:\02. Unity\01. C#\03.HomeWork\DCT_Unity_Homework\BT1C#\33.Goc_tam_giac\obj\Debug\netcoreapp2.1\33.Goc_tam_giac.AssemblyInfo.cs

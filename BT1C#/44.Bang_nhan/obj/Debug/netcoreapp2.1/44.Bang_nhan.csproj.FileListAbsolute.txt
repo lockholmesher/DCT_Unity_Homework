@@ -1,0 +1,11 @@
+D:\02. Unity\01. C#\03.HomeWork\DCT_Unity_Homework\BT1C#\44.Bang_nhan\obj\Debug\netcoreapp2.1\44.Bang_nhan.csprojAssemblyReference.cache
+D:\02. Unity\01. C#\03.HomeWork\DCT_Unity_Homework\BT1C#\44.Bang_nhan\obj\Debug\netcoreapp2.1\44.Bang_nhan.csproj.CoreCompileInputs.cache
+D:\02. Unity\01. C#\03.HomeWork\DCT_Unity_Homework\BT1C#\44.Bang_nhan\obj\Debug\netcoreapp2.1\44.Bang_nhan.AssemblyInfoInputs.cache
+D:\02. Unity\01. C#\03.HomeWork\DCT_Unity_Homework\BT1C#\44.Bang_nhan\obj\Debug\netcoreapp2.1\44.Bang_nhan.AssemblyInfo.cs
+D:\02. Unity\01. C#\03.HomeWork\DCT_Unity_Homework\BT1C#\44.Bang_nhan\bin\Debug\netcoreapp2.1\44.Bang_nhan.deps.json
+D:\02. Unity\01. C#\03.HomeWork\DCT_Unity_Homework\BT1C#\44.Bang_nhan\bin\Debug\netcoreapp2.1\44.Bang_nhan.runtimeconfig.json
+D:\02. Unity\01. C#\03.HomeWork\DCT_Unity_Homework\BT1C#\44.Bang_nhan\bin\Debug\netcoreapp2.1\44.Bang_nhan.runtimeconfig.dev.json
+D:\02. Unity\01. C#\03.HomeWork\DCT_Unity_Homework\BT1C#\44.Bang_nhan\bin\Debug\netcoreapp2.1\44.Bang_nhan.dll
+D:\02. Unity\01. C#\03.HomeWork\DCT_Unity_Homework\BT1C#\44.Bang_nhan\bin\Debug\netcoreapp2.1\44.Bang_nhan.pdb
+D:\02. Unity\01. C#\03.HomeWork\DCT_Unity_Homework\BT1C#\44.Bang_nhan\obj\Debug\netcoreapp2.1\44.Bang_nhan.dll
+D:\02. Unity\01. C#\03.HomeWork\DCT_Unity_Homework\BT1C#\44.Bang_nhan\obj\Debug\netcoreapp2.1\44.Bang_nhan.pdb

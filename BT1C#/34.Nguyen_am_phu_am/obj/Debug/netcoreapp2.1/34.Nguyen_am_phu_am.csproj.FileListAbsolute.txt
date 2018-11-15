@@ -1,0 +1,11 @@
+D:\02. Unity\01. C#\03.HomeWork\DCT_Unity_Homework\BT1C#\34.Nguyen_am_phu_am\obj\Debug\netcoreapp2.1\34.Nguyen_am_phu_am.csprojAssemblyReference.cache
+D:\02. Unity\01. C#\03.HomeWork\DCT_Unity_Homework\BT1C#\34.Nguyen_am_phu_am\obj\Debug\netcoreapp2.1\34.Nguyen_am_phu_am.csproj.CoreCompileInputs.cache
+D:\02. Unity\01. C#\03.HomeWork\DCT_Unity_Homework\BT1C#\34.Nguyen_am_phu_am\obj\Debug\netcoreapp2.1\34.Nguyen_am_phu_am.AssemblyInfoInputs.cache
+D:\02. Unity\01. C#\03.HomeWork\DCT_Unity_Homework\BT1C#\34.Nguyen_am_phu_am\obj\Debug\netcoreapp2.1\34.Nguyen_am_phu_am.AssemblyInfo.cs
+D:\02. Unity\01. C#\03.HomeWork\DCT_Unity_Homework\BT1C#\34.Nguyen_am_phu_am\bin\Debug\netcoreapp2.1\34.Nguyen_am_phu_am.deps.json
+D:\02. Unity\01. C#\03.HomeWork\DCT_Unity_Homework\BT1C#\34.Nguyen_am_phu_am\bin\Debug\netcoreapp2.1\34.Nguyen_am_phu_am.runtimeconfig.json
+D:\02. Unity\01. C#\03.HomeWork\DCT_Unity_Homework\BT1C#\34.Nguyen_am_phu_am\bin\Debug\netcoreapp2.1\34.Nguyen_am_phu_am.runtimeconfig.dev.json
+D:\02. Unity\01. C#\03.HomeWork\DCT_Unity_Homework\BT1C#\34.Nguyen_am_phu_am\bin\Debug\netcoreapp2.1\34.Nguyen_am_phu_am.dll
+D:\02. Unity\01. C#\03.HomeWork\DCT_Unity_Homework\BT1C#\34.Nguyen_am_phu_am\bin\Debug\netcoreapp2.1\34.Nguyen_am_phu_am.pdb
+D:\02. Unity\01. C#\03.HomeWork\DCT_Unity_Homework\BT1C#\34.Nguyen_am_phu_am\obj\Debug\netcoreapp2.1\34.Nguyen_am_phu_am.dll
+D:\02. Unity\01. C#\03.HomeWork\DCT_Unity_Homework\BT1C#\34.Nguyen_am_phu_am\obj\Debug\netcoreapp2.1\34.Nguyen_am_phu_am.pdb
