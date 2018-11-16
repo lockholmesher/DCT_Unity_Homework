@@ -16,7 +16,6 @@ namespace Bai_8
                 string b = Console.ReadLine();
                  Console.WriteLine("Nhap Chu Cai Thu Ba");
                 string c = Console.ReadLine();
-
                 Console.Write("Chuoi Nguoc Lai La:  {0} {1} {2}", c,b,a);
                 
             

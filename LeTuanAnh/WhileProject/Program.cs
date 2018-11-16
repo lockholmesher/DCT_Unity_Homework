@@ -6,13 +6,32 @@ namespace WhileProject
     {
         static void Main(string[] args)
         {
-            //Mảng 1 chiều
-            int[] arrint = new int[5];
-            //Mảng 2 chiều
-            int[,] arrint = new int[5,6];
-            //Mảng của mảng
-            int[][] arr_arrint = new int[5];
-            
+            for (int i=0;i<255;i++)
+            {
+                Console.WriteLine(ConvertHex(i));
+            }
+            Console.WriteLine(Sum(4,5));
+            int Sum(int a,int b)
+            {
+                return a+b;
+            }
         }
+        
+         static string ConvertHex(int Deci)
+         {
+            string s = "";
+            
+            do
+            {
+                int Du = Deci%16;
+                Deci = Deci/16;
+                if (Du < 10)
+                s= Du.ToString()+s;
+                else
+                s=(char)(Du+55)+s;
+            }
+            while (Deci > 0);
+             return s;
+         }
     }
 }

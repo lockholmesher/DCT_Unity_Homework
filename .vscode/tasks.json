@@ -1,0 +1,15 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "build",
+            "command": "dotnet",
+            "type": "process",
+            "args": [
+                "build",
+                "${workspaceFolder}/Lvd/HomeWork/Bai_10_11/Bai_10.csproj"
+            ],
+            "problemMatcher": "$msCompile"
+        }
+    ]
+}

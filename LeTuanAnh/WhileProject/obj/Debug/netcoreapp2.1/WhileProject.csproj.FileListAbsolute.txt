@@ -1,0 +1,11 @@
+/Users/letuananh/Documents/DCT_Unity/C#/DCT_Unity_Homework/LeTuanAnh/WhileProject/bin/Debug/netcoreapp2.1/WhileProject.deps.json
+/Users/letuananh/Documents/DCT_Unity/C#/DCT_Unity_Homework/LeTuanAnh/WhileProject/bin/Debug/netcoreapp2.1/WhileProject.runtimeconfig.json
+/Users/letuananh/Documents/DCT_Unity/C#/DCT_Unity_Homework/LeTuanAnh/WhileProject/bin/Debug/netcoreapp2.1/WhileProject.runtimeconfig.dev.json
+/Users/letuananh/Documents/DCT_Unity/C#/DCT_Unity_Homework/LeTuanAnh/WhileProject/bin/Debug/netcoreapp2.1/WhileProject.dll
+/Users/letuananh/Documents/DCT_Unity/C#/DCT_Unity_Homework/LeTuanAnh/WhileProject/bin/Debug/netcoreapp2.1/WhileProject.pdb
+/Users/letuananh/Documents/DCT_Unity/C#/DCT_Unity_Homework/LeTuanAnh/WhileProject/obj/Debug/netcoreapp2.1/WhileProject.csprojAssemblyReference.cache
+/Users/letuananh/Documents/DCT_Unity/C#/DCT_Unity_Homework/LeTuanAnh/WhileProject/obj/Debug/netcoreapp2.1/WhileProject.csproj.CoreCompileInputs.cache
+/Users/letuananh/Documents/DCT_Unity/C#/DCT_Unity_Homework/LeTuanAnh/WhileProject/obj/Debug/netcoreapp2.1/WhileProject.AssemblyInfoInputs.cache
+/Users/letuananh/Documents/DCT_Unity/C#/DCT_Unity_Homework/LeTuanAnh/WhileProject/obj/Debug/netcoreapp2.1/WhileProject.AssemblyInfo.cs
+/Users/letuananh/Documents/DCT_Unity/C#/DCT_Unity_Homework/LeTuanAnh/WhileProject/obj/Debug/netcoreapp2.1/WhileProject.dll
+/Users/letuananh/Documents/DCT_Unity/C#/DCT_Unity_Homework/LeTuanAnh/WhileProject/obj/Debug/netcoreapp2.1/WhileProject.pdb

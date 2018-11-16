@@ -1,0 +1,11 @@
+/Users/letuananh/Documents/DCT_Unity/C#/DCT_Unity_Homework/DoiCho2Vitri/bin/Debug/netcoreapp2.1/DoiCho2Vitri.deps.json
+/Users/letuananh/Documents/DCT_Unity/C#/DCT_Unity_Homework/DoiCho2Vitri/bin/Debug/netcoreapp2.1/DoiCho2Vitri.runtimeconfig.json
+/Users/letuananh/Documents/DCT_Unity/C#/DCT_Unity_Homework/DoiCho2Vitri/bin/Debug/netcoreapp2.1/DoiCho2Vitri.runtimeconfig.dev.json
+/Users/letuananh/Documents/DCT_Unity/C#/DCT_Unity_Homework/DoiCho2Vitri/bin/Debug/netcoreapp2.1/DoiCho2Vitri.dll
+/Users/letuananh/Documents/DCT_Unity/C#/DCT_Unity_Homework/DoiCho2Vitri/bin/Debug/netcoreapp2.1/DoiCho2Vitri.pdb
+/Users/letuananh/Documents/DCT_Unity/C#/DCT_Unity_Homework/DoiCho2Vitri/obj/Debug/netcoreapp2.1/DoiCho2Vitri.csprojAssemblyReference.cache
+/Users/letuananh/Documents/DCT_Unity/C#/DCT_Unity_Homework/DoiCho2Vitri/obj/Debug/netcoreapp2.1/DoiCho2Vitri.csproj.CoreCompileInputs.cache
+/Users/letuananh/Documents/DCT_Unity/C#/DCT_Unity_Homework/DoiCho2Vitri/obj/Debug/netcoreapp2.1/DoiCho2Vitri.AssemblyInfoInputs.cache
+/Users/letuananh/Documents/DCT_Unity/C#/DCT_Unity_Homework/DoiCho2Vitri/obj/Debug/netcoreapp2.1/DoiCho2Vitri.AssemblyInfo.cs
+/Users/letuananh/Documents/DCT_Unity/C#/DCT_Unity_Homework/DoiCho2Vitri/obj/Debug/netcoreapp2.1/DoiCho2Vitri.dll
+/Users/letuananh/Documents/DCT_Unity/C#/DCT_Unity_Homework/DoiCho2Vitri/obj/Debug/netcoreapp2.1/DoiCho2Vitri.pdb
