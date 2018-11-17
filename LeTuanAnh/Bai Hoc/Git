@@ -15,4 +15,5 @@ git checkout {Nhánh mình muốn Merge}
 git pull
 git checkout {Nhánh của mình}
 git merge {Nhánh mình muốn Merge}
+
 git push
