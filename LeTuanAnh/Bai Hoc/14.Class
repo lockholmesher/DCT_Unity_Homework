@@ -1,0 +1,37 @@
+Định nghĩa một Class trong C#
+
+Một định nghĩa lớp trong C# bắt đầu với từ khóa class được theo sau bởi tên lớp; và phần thân lớp được bao quanh bởi các dấu ngoặc ôm. Dưới đây là form chung của một định nghĩa lớp trong C#:
+
+<access specifier> class  tên_lớp
+{
+   // các biến thành viên
+   <access specifier> <kiểu_dữ_liệu> biến1;
+   <access specifier> <kiểu_dữ_liệu> biến2;
+   ...
+   <access specifier> <kiểu_dữ_liệu> biếnN;
+   
+   // các phương thức thành viên
+   <access specifier> <kiểu_trả_về> tên_phương_thức1(danh_sách_tham_số)
+   {
+      // phần thân phương thức
+   }
+   <access specifier> <kiểu_trả_về> tên_phương_thức2(danh_sách_tham_số)
+   {
+      // phần thân phương thức
+   }
+   ...
+   <access specifier> <kiểu_trả_về> tên_phương_thứcN(danh_sách_tham_số)
+   {
+      // phần thân phương thức
+   }
+}
+Ghi chú:
+
+Access specifier xác định các qui tắc truy cập cho các thành viên cũng như chính lớp đó. 
+Nếu không được đề cập, thì Access Specifier mặc định cho một kiểu lớp là internal. 
+Chế độ truy cập mặc định cho các thành viên là private.
+kiểu_dữ_liệu xác định kiểu biến, và trả về kiểu dữ liệu mà phương thức trả về.
+Để truy cập các thành viên lớp, bạn sử dụng toán tử dot (.).
+Toán tử dot (.) liên kết với tên của một đối tượng với tên của một thành viên.
+Ví dụ sau minh họa các khái niệm về lớp trong C# được đề cập ở trên: tạo hai class 
+có tên lần lượt là Box và TestCsharp trong hai file riêng biệt.
