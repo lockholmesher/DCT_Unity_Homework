@@ -1,0 +1,11 @@
+E:\MYProject\homework\DCT_Unity_Homework\baitapTeng\exampleNV\obj\Debug\netcoreapp2.1\exampleNV.csprojAssemblyReference.cache
+E:\MYProject\homework\DCT_Unity_Homework\baitapTeng\exampleNV\obj\Debug\netcoreapp2.1\exampleNV.csproj.CoreCompileInputs.cache
+E:\MYProject\homework\DCT_Unity_Homework\baitapTeng\exampleNV\obj\Debug\netcoreapp2.1\exampleNV.AssemblyInfoInputs.cache
+E:\MYProject\homework\DCT_Unity_Homework\baitapTeng\exampleNV\obj\Debug\netcoreapp2.1\exampleNV.AssemblyInfo.cs
+E:\MYProject\homework\DCT_Unity_Homework\baitapTeng\exampleNV\bin\Debug\netcoreapp2.1\exampleNV.deps.json
+E:\MYProject\homework\DCT_Unity_Homework\baitapTeng\exampleNV\bin\Debug\netcoreapp2.1\exampleNV.runtimeconfig.json
+E:\MYProject\homework\DCT_Unity_Homework\baitapTeng\exampleNV\bin\Debug\netcoreapp2.1\exampleNV.runtimeconfig.dev.json
+E:\MYProject\homework\DCT_Unity_Homework\baitapTeng\exampleNV\bin\Debug\netcoreapp2.1\exampleNV.dll
+E:\MYProject\homework\DCT_Unity_Homework\baitapTeng\exampleNV\bin\Debug\netcoreapp2.1\exampleNV.pdb
+E:\MYProject\homework\DCT_Unity_Homework\baitapTeng\exampleNV\obj\Debug\netcoreapp2.1\exampleNV.dll
+E:\MYProject\homework\DCT_Unity_Homework\baitapTeng\exampleNV\obj\Debug\netcoreapp2.1\exampleNV.pdb

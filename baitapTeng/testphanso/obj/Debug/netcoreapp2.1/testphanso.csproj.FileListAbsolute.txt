@@ -1,0 +1,11 @@
+E:\MYProject\homework\DCT_Unity_Homework\baitapTeng\testphanso\obj\Debug\netcoreapp2.1\testphanso.csprojAssemblyReference.cache
+E:\MYProject\homework\DCT_Unity_Homework\baitapTeng\testphanso\obj\Debug\netcoreapp2.1\testphanso.csproj.CoreCompileInputs.cache
+E:\MYProject\homework\DCT_Unity_Homework\baitapTeng\testphanso\obj\Debug\netcoreapp2.1\testphanso.AssemblyInfoInputs.cache
+E:\MYProject\homework\DCT_Unity_Homework\baitapTeng\testphanso\obj\Debug\netcoreapp2.1\testphanso.AssemblyInfo.cs
+E:\MYProject\homework\DCT_Unity_Homework\baitapTeng\testphanso\bin\Debug\netcoreapp2.1\testphanso.deps.json
+E:\MYProject\homework\DCT_Unity_Homework\baitapTeng\testphanso\bin\Debug\netcoreapp2.1\testphanso.runtimeconfig.json
+E:\MYProject\homework\DCT_Unity_Homework\baitapTeng\testphanso\bin\Debug\netcoreapp2.1\testphanso.runtimeconfig.dev.json
+E:\MYProject\homework\DCT_Unity_Homework\baitapTeng\testphanso\bin\Debug\netcoreapp2.1\testphanso.dll
+E:\MYProject\homework\DCT_Unity_Homework\baitapTeng\testphanso\bin\Debug\netcoreapp2.1\testphanso.pdb
+E:\MYProject\homework\DCT_Unity_Homework\baitapTeng\testphanso\obj\Debug\netcoreapp2.1\testphanso.dll
+E:\MYProject\homework\DCT_Unity_Homework\baitapTeng\testphanso\obj\Debug\netcoreapp2.1\testphanso.pdb

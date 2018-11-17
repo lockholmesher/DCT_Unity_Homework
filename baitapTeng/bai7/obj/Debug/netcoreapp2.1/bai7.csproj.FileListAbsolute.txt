@@ -1,0 +1,4 @@
+E:\MYProject\homework\DCT_Unity_Homework\baitapTeng\bai7\obj\Debug\netcoreapp2.1\bai7.csprojAssemblyReference.cache
+E:\MYProject\homework\DCT_Unity_Homework\baitapTeng\bai7\obj\Debug\netcoreapp2.1\bai7.csproj.CoreCompileInputs.cache
+E:\MYProject\homework\DCT_Unity_Homework\baitapTeng\bai7\obj\Debug\netcoreapp2.1\bai7.AssemblyInfoInputs.cache
+E:\MYProject\homework\DCT_Unity_Homework\baitapTeng\bai7\obj\Debug\netcoreapp2.1\bai7.AssemblyInfo.cs

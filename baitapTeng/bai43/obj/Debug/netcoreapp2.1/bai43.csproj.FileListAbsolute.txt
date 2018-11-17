@@ -1,0 +1,11 @@
+E:\MYProject\homework\DCT_Unity_Homework\baitapTeng\bai43\obj\Debug\netcoreapp2.1\bai43.csprojAssemblyReference.cache
+E:\MYProject\homework\DCT_Unity_Homework\baitapTeng\bai43\obj\Debug\netcoreapp2.1\bai43.csproj.CoreCompileInputs.cache
+E:\MYProject\homework\DCT_Unity_Homework\baitapTeng\bai43\obj\Debug\netcoreapp2.1\bai43.AssemblyInfoInputs.cache
+E:\MYProject\homework\DCT_Unity_Homework\baitapTeng\bai43\obj\Debug\netcoreapp2.1\bai43.AssemblyInfo.cs
+E:\MYProject\homework\DCT_Unity_Homework\baitapTeng\bai43\bin\Debug\netcoreapp2.1\bai43.deps.json
+E:\MYProject\homework\DCT_Unity_Homework\baitapTeng\bai43\bin\Debug\netcoreapp2.1\bai43.runtimeconfig.json
+E:\MYProject\homework\DCT_Unity_Homework\baitapTeng\bai43\bin\Debug\netcoreapp2.1\bai43.runtimeconfig.dev.json
+E:\MYProject\homework\DCT_Unity_Homework\baitapTeng\bai43\bin\Debug\netcoreapp2.1\bai43.dll
+E:\MYProject\homework\DCT_Unity_Homework\baitapTeng\bai43\bin\Debug\netcoreapp2.1\bai43.pdb
+E:\MYProject\homework\DCT_Unity_Homework\baitapTeng\bai43\obj\Debug\netcoreapp2.1\bai43.dll
+E:\MYProject\homework\DCT_Unity_Homework\baitapTeng\bai43\obj\Debug\netcoreapp2.1\bai43.pdb

@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "e:\\MYProject\\homework\\DCT_Unity_Homework\\baitapTeng\\bai13\\bai13.csproj",
+  "TargetFramework": "netcoreapp2.1",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
