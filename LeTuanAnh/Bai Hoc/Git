@@ -1,0 +1,18 @@
+git clone : Down Project về
+git remote -v :Remote đến Project
+
+Create branch
+git branch {Tên nhánh}
+git checkout {Tên nhánh}
+
+Push Project lên
+git add .
+git commit -m
+git push
+
+Merge Project
+git checkout {Nhánh mình muốn Merge}
+git pull
+git checkout {Nhánh của mình}
+git merge {Nhánh mình muốn Merge}
+git push

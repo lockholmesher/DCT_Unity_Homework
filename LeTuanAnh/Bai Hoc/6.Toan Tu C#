@@ -46,6 +46,4 @@ typeof()	Trả về kiểu của một lớp	typeof(StreamReader);
 *	Trỏ tới một biến	*a; tạo con trỏ với tên là a tới một biến
 ? :	Biểu thức điều kiện (Conditional Expression)	Nếu Condition là true ? Thì giá trị X : Nếu không thì Y
 is	Xác định đối tượng là một kiểu cụ thể hay không	If( Ford is Car) // Kiểm tra nếu Ford là một đối tượng của lớp Car
-as	Ép kiểu mà không tạo một exception nếu việc ép kiểu thất bại	Object obj = new StringReader("Hello");
-StringReader r = obj as StringReader;
-
+as	Ép kiểu mà không tạo một exception nếu việc ép kiểu thất bại
