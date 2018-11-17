@@ -1,0 +1,13 @@
+Trong C#, bạn có thể sử dụng các chuỗi (string) như là mảng các ký tự. 
+Tuy nhiên, phổ biến hơn là để sử dụng từ khóa string để khai báo một biến chuỗi. 
+Từ khóa string là một alias cho lớp System.String trong C#.
+
+Tạo một đối tượng String trong C#
+
+Bạn có thể tạo đối tượng String bởi sử dụng một trong các phương thức sau:
+
+Bằng việc gán một hằng chuỗi cho một biến String
+Sử dụng một constructor của lớp String
+Sử dụng toán tử nối chuỗi (+)
+Bởi việc thu nhận một thuộc tính hoặc gọi một phương thức mà trả về một chuỗi
+Bằng việc gọi một phương thức định dạng để chuyển đổi một giá trị hoặc một đối tượng thành biểu diễn chuỗi của nó.

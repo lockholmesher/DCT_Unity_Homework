@@ -1,0 +1,34 @@
+Encapsulation (Tính đóng gói) 
+
+được định nghĩa là "tiến trình đóng gói một hoặc nhiều mục bên trong một gói logic hoặc vật lý". 
+Tính đóng gói, trong phương pháp lập trình hướng đối tượng, ngăn cản việc truy cập tới chi tiết của trình trình triển khai (Implementation Detail).
+
+Tính trừu tượng và tính đóng gói là hai đặc điểm có liên quan với nhau trong lập trình hướng đối tượng. Tính trừu tượng cho phép tạo các thông tin liên quan có thể nhìn thấy và tính đóng gói cho lập trình viên khả năng triển khai độ trừu tượng đã được kế thừa.
+
+Tính đóng gói được triển khai bởi sử dụng Access Specifier. Một Access Specifier định nghĩa phạm vi và tính nhìn thấy của một thành viên lớp. C# hỗ trợ các Access Specifier sau:
+
+Public
+Private
+Protected
+Internal
+Protected
+Protected Internal
+
+Public Access Specifier trong C# cho phép một lớp trưng bày các biến thành viên và các hàm thành viên của nó tới các hàm và đối tượng khác. 
+    Bất kỳ thành viên public nào trong C# có thể được truy cập từ bên ngoài lớp đó.
+
+Private Access Specifier trong C# cho phép một lớp ẩn các biến thành viên và các hàm thành viên của nó với các hàm và đối tượng khác. 
+    Chỉ có các hàm trong cùng lớp đó có thể truy cập tới các thành viên private. Ngay cả khi một Instance của một lớp cũng không thể truy cập các thành viên private của nó.
+
+
+Protected Access Specifier trong C# cho phép một lớp con truy cập các biến thành viên và các hàm thành viên của lớp cơ sở của nó. 
+    Cách này giúp triển khai tính kế thừa. Chúng ta sẽ thảo luận chi tiết về tính kế thừa trong chương sau đó.
+
+
+Internal Access Specifier trong C# cho phép một lớp trưng bày các biến thành viên và các hàm thành viên của nó tới các hàm và đối tượng khác trong Assembly hiện tại. 
+    Nói cách khác, bất kỳ thành viên nào với Internal Access Specifier trong C# có thể được truy cập từ bất kỳ lớp hoặc phương thức được định nghĩa bên trong ứng dụng mà thành viên đó được định nghĩa.
+
+Protected Internal Access Specifier trong C#
+
+Protected Internal Access Specifier trong C# cho phép một lớp ẩn các biến thành viên và các hàm thành viên của nó với các hàm và đối tượng khác, ngoại trừ một lớp con bên trong cùng ứng dụng đó. 
+    Điều này cũng được sử dụng trong khi triển khai tính kế thừa trong C#.

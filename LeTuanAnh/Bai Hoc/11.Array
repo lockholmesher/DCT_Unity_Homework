@@ -1,0 +1,42 @@
+Một mảng lưu giữ một tập hợp các phần tử có kích cỡ cố định trong cùng kiểu. Một mảng được sử dụng để lưu giữ một tập hợp dữ liệu, nhưng nó thường hữu ích hơn khi nghĩ về một mảng như là một tập hợp các biến cùng kiểu được lưu giữ tại các vị trí bộ nhớ kề nhau.
+
+Thay vì khai báo biến một cách rời rạc, như biến number0, number1,… và number99, bạn có thể khai báo một mảng các giá trị như numbers[0], numbers[1] và … numbers[99] để biểu diễn các giá trị riêng biệt. 
+Một thành viên cụ thể của mảng có thể được truy cập qua index (chỉ số).
+
+Tất cả mảng đều bao gồm các vị trí nhớ liền kề nhau. Địa chỉ thấp nhất tương ứng với thành viên đầu tiền và địa chỉ cao nhất tương ứng với thành viên cuối cùng của mảng.
+
+Mảng (Array) trong C#
+Khai báo mảng trong C#
+
+Để khai báo một mảng trong ngôn ngữ C#, bạn có thể sử dụng cú pháp:
+
+    kiểu_dữ_liệu[] tên_mảng;
+
+Khởi tạo mảng trong C#
+
+    Việc khai báo một mảng không khởi tạo mảng trong bộ nhớ. Khi biến mảng được khởi tạo, bạn có thể gán giá trị cho mảng đó.
+
+    Mảng là một kiểu tham chiếu, vì thế bạn cần sử dụng từ khóa new trong C# để tạo một Instance (sự thể hiện) của mảng đó. Ví dụ:
+
+        double[] balance = new double[10];
+
+Gán giá trị cho một mảng trong C#
+
+Bạn có thể gán giá trị cho các phần tử mảng riêng biệt bởi sử dụng chỉ số mảng, như:
+
+    double[] balance = new double[10];
+    balance[0] = 4500.0;
+Bạn có thể gán giá trị cho mảng tại thời điểm khai báo mảng, như sau:
+
+    double[] balance = { 2340.0, 4523.69, 3421.0};
+Bạn cũng có thể tạo và khai báo một mảng, như sau:
+
+    int [] marks = new int[5]  { 99,  98, 92, 97, 95};
+Bạn cũng có thể bỏ qua kích cỡ mảng, như:
+
+    int [] marks = new int[]  { 99,  98, 92, 97, 95};
+Bạn có thể sao chép một biến mảng vào trong biến mảng mục tiêu khác. 
+Trong tình huống này, cả biến mục tiêu và biến nguồn đều trỏ tới cùng vị trí bộ nhớ:
+
+    int [] marks = new int[]  { 99,  98, 92, 97, 95};
+    int[] score = marks;

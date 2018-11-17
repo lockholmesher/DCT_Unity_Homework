@@ -1,0 +1,20 @@
+Một trong những khái niệm quan trọng nhất trong lập trình hướng đối tượng là Tính kế thừa (Inheritance). Tính kế thừa cho phép chúng ta định nghĩa một lớp trong điều kiện một lớp khác, mà làm cho nó dễ dàng hơn để tạo và duy trì một ứng dụng. Điều này cũng cung cấp một cơ hội để tái sử dụng tính năng code và thời gian thực thi nhanh hơn.
+
+Khi tạo một lớp, thay vì viết toàn bộ các thành viên dữ liệu và các hàm thành viên mới, lập trình viên có thể nên kế thừa các thành viên của một lớp đang tồn tại. Lớp đang tồn tại này được gọi là Base Class - lớp cơ sở, và lớp mới được xem như là Derived Class – lớp thừa kế.
+
+Ý tưởng của tính kế thừa triển khai mối quan hệ IS-A (Là Một). Ví dụ, mammal IS A animal, dog IS-A mammal, vì thế dog IS-A animal, và ....
+
+Lớp cơ sở (Base Class) và Lớp thừa kế (Derived Class) trong C#
+
+Một lớp có thể được kế thừa từ hơn một lớp khác, nghĩa là, nó có thể kế thừa dữ liệu và hàm từ nhiều Lớp hoặc Interface cơ sở.
+
+Cú pháp để tạo lớp kế thừa trong C# là:
+
+<acess-specifier> class <base_class>
+{
+   ...
+}
+class <derived_class> : <base_class>
+{
+   ...
+}
