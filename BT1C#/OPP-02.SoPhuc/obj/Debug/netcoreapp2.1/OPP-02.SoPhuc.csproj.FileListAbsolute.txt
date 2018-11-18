@@ -1,0 +1,4 @@
+D:\02. Unity\01. C#\03.HomeWork\DCT_Unity_Homework\BT1C#\OPP-02.SoPhuc\obj\Debug\netcoreapp2.1\OPP-02.SoPhuc.csprojAssemblyReference.cache
+D:\02. Unity\01. C#\03.HomeWork\DCT_Unity_Homework\BT1C#\OPP-02.SoPhuc\obj\Debug\netcoreapp2.1\OPP-02.SoPhuc.csproj.CoreCompileInputs.cache
+D:\02. Unity\01. C#\03.HomeWork\DCT_Unity_Homework\BT1C#\OPP-02.SoPhuc\obj\Debug\netcoreapp2.1\OPP-02.SoPhuc.AssemblyInfoInputs.cache
+D:\02. Unity\01. C#\03.HomeWork\DCT_Unity_Homework\BT1C#\OPP-02.SoPhuc\obj\Debug\netcoreapp2.1\OPP-02.SoPhuc.AssemblyInfo.cs
